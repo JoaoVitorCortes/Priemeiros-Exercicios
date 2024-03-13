@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+  margin: 0px;
+}
+.bloco {
+  background-color: #111;
+  width: auto;
+  height: 160px;
+  padding: 25px;
+  margin: 50px;
+  border-radius: 4px;
+}
+h1 {
+  text-align: center;
+}
+.item {
+  color: rgb(255, 255, 255);
+}
+p {
+  color: #b2b2b2;
+}
+
+.numeros {
+  color: #febe01;
+}
+
+button,
+a {
+  background-color: #febe01;
+  width: auto;
+  height: 35px;
+  text-decoration: none;
+  color: #111;
+  border: 0px;
+  border-radius: 4px;
+}
